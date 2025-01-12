@@ -1,0 +1,17 @@
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\bin\Debug\net8.0-windows\osrs_dps_calc.exe
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\bin\Debug\net8.0-windows\osrs_dps_calc.deps.json
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\bin\Debug\net8.0-windows\osrs_dps_calc.runtimeconfig.json
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\bin\Debug\net8.0-windows\osrs_dps_calc.dll
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\bin\Debug\net8.0-windows\osrs_dps_calc.pdb
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.Form1.resources
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.Properties.Resources.resources
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.AssemblyInfo.cs
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.dll
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\refint\osrs_dps_calc.dll
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.pdb
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\osrs_dps_calc.genruntimeconfig.cache
+C:\Users\chris\source\repos\osrs_dps_calc\osrs_dps_calc\obj\Debug\net8.0-windows\ref\osrs_dps_calc.dll

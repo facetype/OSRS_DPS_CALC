@@ -1,0 +1,5 @@
+C:\Users\chris\Documents\osrs_dps_calc\osrs_dps_calc.exe
+C:\Users\chris\Documents\osrs_dps_calc\osrs_dps_calc.dll
+C:\Users\chris\Documents\osrs_dps_calc\osrs_dps_calc.deps.json
+C:\Users\chris\Documents\osrs_dps_calc\osrs_dps_calc.runtimeconfig.json
+C:\Users\chris\Documents\osrs_dps_calc\osrs_dps_calc.pdb
