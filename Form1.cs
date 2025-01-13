@@ -186,7 +186,7 @@ namespace osrs_dps_calc
                 HitChance = AttackRoll / (2 * (DefenceRoll + 1));
             }
 
-            AverageDmgPerAttack = HitChance * ((MaximumHit / 2) + (1 / MaximumHit + 1));
+            AverageDmgPerAttack = HitChance * ((MaximumHit / 2) + (1 / (MaximumHit + 1)));
 
             AverageDPS = AverageDmgPerAttack / AttackSpeed;
 
